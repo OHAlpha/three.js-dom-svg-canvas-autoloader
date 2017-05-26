@@ -1,0 +1,28 @@
+.demo-texture {
+  display: none;
+  border: 2px solid red;
+}
+
+.svg-texture {
+  display: none;
+  border: 2px solid red;
+}
+
+.canvas-texture, #time {
+  display: none;
+  border: 2px solid green;
+}
+.canvas-texture.from-svg, #time.from-svg {
+  border: 2px solid yellow;
+}
+
+/*
+.demo-texture {
+  &#dmo-tex-00 {
+    p {
+      color: #883300;
+      text-shadow: 0 0 5px #c83;
+    }
+  }
+}
+*/
